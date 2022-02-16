@@ -1,3 +1,3 @@
-# Interesting
+# SAPience
 
-A complete SAPGUI Web component fuzzing list. Recopiled from differents public list and metasploit exploit lists
+A complete SAPGUI Web platform fuzzing list. Recopiled from differents public lists.
